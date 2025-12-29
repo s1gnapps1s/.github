@@ -27,4 +27,4 @@ Ich führe private Repositories für meine Code-Implementierungen:
 ---
 
 ### 📊 Tech Stack
-![AI](https://img.shields.io/badge/AI-orange?style=flat-square) ![Robotics](https://img.shields.io/badge/Robotics-blueviolet?style=flat-square) ![Security](https://img.shields.io/badge/Security-red?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-blue?style=flat-square)
+![AI](https://img.shields.io/badge/AI-orange?style=flat-square) ![Robotics](https://img.shields.io/badge/Robotics-red?style=flat-square) ![Security](https://img.shields.io/badge/Security-blue?style=flat-square) ![ESP](https://img.shields.io/badge/ESP-green?style=flat-square)
