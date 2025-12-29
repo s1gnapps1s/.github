@@ -15,7 +15,7 @@ Fokus: Modulare Elektronik & intelligente Systeme.
 Ich führe private Repositories für meine Code-Implementierungen:
 * **Custom Firmware:** ESP32 & Microcontroller Code.
 * **AI & Robotics:** Steuerungslogik & experimentelle Skripte.
-* **Security Research:** Tools für Penetrationtests.
+* **Security Research:** Tools für Pentests.
 
 ---
 
