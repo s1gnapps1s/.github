@@ -10,7 +10,7 @@ Fokus: Modulare Elektronik & intelligente Systeme.
 ### Public (Documentation)
 * **Schematics & PCB Designs:** Layouts für diverse Projekte.
 * **Security Prototypes:** Konzepte für Alarmsystem & Einbrecherschreck.
-* **Sensor Fusion & Motion Tracking:** Konzepte für gestengesteuerte Systeme. (zukünftig)
+* **Sensor Fusion & Real-Time Motion Tracking:** Konzepte für gestengesteuerte Systeme. (zukünftig)
 
 ### Private (Source Code)
 Ich führe private Repositories für meine Code-Implementierungen:
