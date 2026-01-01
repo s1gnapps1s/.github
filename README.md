@@ -1,4 +1,6 @@
-# Hi, I'm s1gnapps1s 👋
+# Hi, I'm s1gnapps1s👋 
+
+### 🎓 Digital Engineering Student
 
 **AI / Robotics / Security Enthusiast**
 Fokus: Modulare Elektronik & intelligente Systeme.
